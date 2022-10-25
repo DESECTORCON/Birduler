@@ -1,0 +1,16 @@
+https://jig.space
+https://www.jig.space
+https://api.jig.space
+https://auth.jig.space
+https://jig.space/*
+https://api.jig.space/*
+https://auth.jig.space/*
+https://jigspace.auth0.com/*
+https://assets.jig.space/*
+https://account.jig.space/*
+https://dashboard.jig.space/*
+https://view.jig.space/*
+https://viewer.jig.space/*
+https://lrno.app.link/*
+https://link.jig.space/*
+https://appclip.jig.space/*
